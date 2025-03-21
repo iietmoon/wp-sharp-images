@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="/.github/ressources/icon.png" alt="logo" width="175px">
+    <img src="/.github/ressources/icon.png" alt="logo" width="125px">
   </a>
 </p>
 <h2 align="center">WP Sharp Images</h2>
